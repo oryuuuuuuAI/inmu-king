@@ -1,0 +1,8 @@
+{
+  "name": "inmu-king",
+  "version": "0.3.0",
+  "description": "/inmu-king で 5 体の Clawd が INMU KING(やじゅまん)のサビの振付を踊るペインを開く。伴奏(ニコニ・コモンズのインスト版・vocal で歌入り版に切り替え)と Clawd の替え歌の字幕つき(元の歌詞の文字は入れていない)",
+  "author": {
+    "name": "oryuuuuuuAI"
+  }
+}

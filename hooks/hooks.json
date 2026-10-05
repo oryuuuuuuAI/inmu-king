@@ -1,0 +1,4 @@
+{
+  "description": "INMU KING の踊りペイン(/inmu-king)",
+  "modules": ["./register.js"]
+}
